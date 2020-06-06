@@ -136,18 +136,16 @@ img.pi-logo {
 }
 
 div.button-wrapper {
-  margin: 100px;
+  margin: 40px;
 }
 
 a.button {
   background-color: #fbb44a;
   color: #e35b08;
-  font-size: 15px;
+  font-size: 25px;
   text-decoration: none;
-  padding: 10px 20px;
-  width: 150px;
-  height: 30px;
-  border-radius: 30px;
+  padding: 15px 40px;
+  border-radius: 32px;
 }
 
 a.button:hover {
@@ -157,7 +155,7 @@ a.button:hover {
 
 a.button:active {
   background-color: #e35b08;
-  color: #692f0b;
+  color: #49433f;
 }
 
 div.to-section:hover {
@@ -199,8 +197,23 @@ div.to-section:hover {
     font-size: 40px;
   }
 
+  p.finish-words-highlights {
+    font-size: 25px;
+    font-weight: normal;
+    color: #e35b08;
+  }
+
   div.button-wrapper {
     margin: 80px;
+  }
+
+  a.button {
+    background-color: #fbb44a;
+    color: #e35b08;
+    font-size: 15px;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 22px;
   }
 }
 

@@ -82,9 +82,9 @@ const App = () => {
                 {renderGoToSection(fullpageApi, "Ir Direto Ao Ponto ⚡", 8)}
               </div>
               <div className="section">
-                <p className="title">Não se preocupe! 🤷🏻‍♂️</p>
+                <p className="title">Não entendeu ainda? 🤷🏻‍♂️</p>
                 <p>
-                  Se não entendeu ainda, te explico.
+                  Não se preocupe, já te explico.
                   <br />
                   Esta é uma oportunidade única.
                   <br />
@@ -109,8 +109,8 @@ const App = () => {
 
               <div className="section">
                 <p className="title">Talvez você ainda não saiba...</p>
-                <p>mas nesse tipo de investimento,</p>
-                <p>mas vai por mim, daqui alguns meses</p>
+                <p>mas se você iniciar nesse mercado,</p>
+                <p>vai por mim, em alguns meses</p>
                 <p>vai agradecer ao tio Crypllo 🔑 aqui</p>
                 <p>por ter te mostrado o caminho</p>
                 <p> das pedras!! 🔮</p>
@@ -209,6 +209,7 @@ const App = () => {
                   🆙 Seguindo os passos acima,
                   <br /> você já pode começar a minerar!!! 🔑🏆
                 </p>
+                {renderGoToSection(fullpageApi, "Para tudo!!! 😅", 3)}
               </div>
 
               <div className="section">
